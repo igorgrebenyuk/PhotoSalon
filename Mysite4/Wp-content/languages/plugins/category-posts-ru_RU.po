@@ -1,0 +1,732 @@
+# Translation of Plugins - Category Posts Widget - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Category Posts Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-15 13:05:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Category Posts Widget - Stable (latest release)\n"
+
+#: class-widget.php:2007
+msgid "Scrollbar"
+msgstr "Полоса прокрутки"
+
+#: class-widget.php:1793
+msgid "Heading Level:"
+msgstr "Уровень заголовка:"
+
+#: class-widget.php:2023
+msgid "%all%"
+msgstr "%все%"
+
+#: class-widget.php:2019
+msgid "%step%"
+msgstr "%sшаг%"
+
+#: class-widget.php:2020
+msgid "Loaded items"
+msgstr "Загруженные элементы"
+
+#: cat-posts.php:735 class-widget.php:466 class-widget.php:2012
+msgid "Load More (%s/%s)"
+msgstr "Загрузить больше (%s/%s)"
+
+#: class-widget.php:1705
+msgid "%more-link%"
+msgstr "%more-link%"
+
+#: class-widget.php:1818
+msgid "'Read more' text"
+msgstr "Текст 'Подробнее'"
+
+#: class-widget.php:2002
+msgid "Ajax API"
+msgstr "Ajax API"
+
+#: class-widget.php:1903
+msgid "Width"
+msgstr "Ширина"
+
+#: class-widget.php:1219
+msgid "Heading Level"
+msgstr "Уровень заголовка"
+
+#: class-widget.php:1904
+msgid "Height"
+msgstr "Высота"
+
+#: class-widget.php:1900
+msgid "Image ratio"
+msgstr "Пропорции изображения"
+
+#: class-widget.php:1976
+msgid "Inherited CSS"
+msgstr "Унаследованный CSS"
+
+#: class-widget.php:1789
+msgid "Title settings"
+msgstr "Настройки заголовка"
+
+#: class-widget.php:1980
+msgid "Disable Theme's styles"
+msgstr "Отключить стили темы"
+
+#: class-widget.php:1862
+msgid "Show image dimension help"
+msgstr "Показать справку по размеру изображения"
+
+#: class-widget.php:1820
+msgid "Show More Link help"
+msgstr "Показать дополнительную справку по ссылкам"
+
+#: class-widget.php:1777
+msgid "Title, Thumbnail"
+msgstr "Заголовок, миниатюра"
+
+#: class-widget.php:1860
+msgid "Dimensions (pixel)"
+msgstr "Размеры (пиксель)"
+
+#: class-widget.php:1905
+msgid "Both"
+msgstr "Оба"
+
+#: class-widget.php:1982
+msgid "Interim text"
+msgstr "Промежуточный текст"
+
+#: class-widget.php:1873
+msgid "Max-width limits in relation of the total Post width."
+msgstr "Ограничения максимальной ширины в отношении общей ширины записи."
+
+#: class-widget.php:1821
+msgid "[&hellip;]"
+msgstr "[&hellip;]"
+
+#: class-widget.php:1752
+msgid "Read more text"
+msgstr "Текст Читать далее"
+
+#: cat-posts.php:736 class-widget.php:475 class-widget.php:2028
+msgid "Loading..."
+msgstr "Загрузка ..."
+
+#: class-widget.php:2028
+msgid "Loading text"
+msgstr "Текст загрузки"
+
+#: class-widget.php:2009
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: class-widget.php:2004
+msgid "Enable Load More"
+msgstr "Включить - Загрузить ещё"
+
+#: class-widget.php:1999
+msgid "Text"
+msgstr "Текст"
+
+#: class-widget.php:1992
+msgid "Show text"
+msgstr "Показать текст"
+
+#: class-widget.php:1991
+msgid "Hide Widget"
+msgstr "Скрыть Виджет"
+
+#: class-widget.php:1990
+msgid "Display empty widget"
+msgstr "Показать пустой Виджет"
+
+#: class-widget.php:1988
+msgid "When there are no matches"
+msgstr "Если нет совпадений"
+
+#: class-widget.php:1915
+msgid "Large"
+msgstr "Крупная"
+
+#: class-widget.php:1914
+msgid "Medium"
+msgstr "Средняя"
+
+#: class-widget.php:1910
+msgid "Available"
+msgstr "Доступные"
+
+#: class-widget.php:1895
+msgid "switch"
+msgstr "переключить"
+
+#: class-widget.php:1894
+msgid "16:9"
+msgstr "16:9"
+
+#: class-widget.php:1893
+msgid "4:3"
+msgstr "4:3"
+
+#: class-widget.php:1892
+msgid "1:1"
+msgstr "1:1"
+
+#: class-widget.php:1889
+msgid "Ratio"
+msgstr "Масштаб"
+
+#: class-widget.php:1884
+msgid "+"
+msgstr "+"
+
+#: class-widget.php:1883
+msgid "2x"
+msgstr "2x"
+
+#: class-widget.php:1882
+msgid "1/2"
+msgstr "1/2"
+
+#: class-widget.php:1881
+msgid "1/4"
+msgstr "1/4"
+
+#: class-widget.php:1880
+msgid "-"
+msgstr "-"
+
+#: class-widget.php:1877
+msgid "Change size"
+msgstr "Изменить размер"
+
+#: class-widget.php:1867
+msgid "Max-width:"
+msgstr "Максимальная ширина:"
+
+#: class-widget.php:1845
+msgid "Reader's local date"
+msgstr "Локальная дата"
+
+#: class-widget.php:1844
+msgid "Reader's local date and time"
+msgstr "Локальное время/дата"
+
+#: class-widget.php:1792 class-widget.php:1802
+msgid "Lines (responsive):"
+msgstr "Линии (адаптивные):"
+
+#: class-widget.php:1709
+msgid "%category%"
+msgstr "%category%"
+
+#: class-widget.php:1708
+msgid "%post_tag%"
+msgstr "%post_tag%"
+
+#: class-widget.php:1707
+msgid "%commentnum%"
+msgstr "%commentnum%"
+
+#: class-widget.php:1706
+msgid "%author%"
+msgstr "%author%"
+
+#: class-widget.php:1704
+msgid "%excerpt%"
+msgstr "%excerpt%"
+
+#: class-widget.php:1703
+msgid "%date%"
+msgstr "%date%"
+
+#: class-widget.php:1702
+msgid "%thumb%"
+msgstr "%thumb%"
+
+#: class-widget.php:1701
+msgid "%title%"
+msgstr "%title%"
+
+#: class-widget.php:1696
+msgid "Add Placeholder"
+msgstr "Добавить надпись"
+
+#: class-widget.php:1297
+msgid "Before"
+msgstr "До"
+
+#: class-widget.php:1296
+msgid "After"
+msgstr "После"
+
+#: class-widget.php:1295
+msgid "Up to"
+msgstr "Вплоть до"
+
+#: class-widget.php:1287
+msgid "Between dates"
+msgstr "Интервал между датами"
+
+#: class-widget.php:1286
+msgid "Days ago"
+msgstr "Дней назад"
+
+#: class-widget.php:1285
+msgid "Off"
+msgstr "Выкл."
+
+#: class-widget.php:1283
+msgid "Date Range"
+msgstr "Диапазон дат"
+
+#: class-widget.php:1913
+msgid "Thumb"
+msgstr "Миниатюра"
+
+#: class-widget.php:2039
+msgid "Support"
+msgstr "Поддержка"
+
+#: class-widget.php:1979
+msgid "Disable only font styles"
+msgstr "Отключить только стили шрифтов"
+
+#: class-widget.php:1978
+msgid "Disable the built-in CSS"
+msgstr "Отключить встроенный CSS"
+
+#: class-widget.php:1941
+msgid "HTML without styling"
+msgstr "HTML без стиля"
+
+#: class-widget.php:1940
+msgid "Bottom right"
+msgstr "Внизу справа"
+
+#: class-widget.php:1939
+msgid "Top right"
+msgstr "Вверху справа"
+
+#: class-widget.php:1938
+msgid "Center"
+msgstr "По центру"
+
+#: class-widget.php:1937
+msgid "Bottom left"
+msgstr "Внизу слева"
+
+#: class-widget.php:1936
+msgid "Top left"
+msgstr "Вверху слева"
+
+#: class-widget.php:1933
+msgid "Indicate post format and position"
+msgstr "Указать формат записи и позицию"
+
+#: class-widget.php:1921
+msgid "Do not wrap thumbnail with overflowing text"
+msgstr "Не огибать миниатюру при большом тексте"
+
+#: class-widget.php:1858
+msgid "Thumbnail settings"
+msgstr "Настройки миниатюры"
+
+#: class-widget.php:1851
+msgid "PHP Style Date format"
+msgstr "Стиль PHP формата даты"
+
+#: class-widget.php:1846
+msgid "PHP style format"
+msgstr "Формат PHP стиля"
+
+#: class-widget.php:1843
+msgid "Site date"
+msgstr "Дата сайта"
+
+#: class-widget.php:1842
+msgid "Site date and time"
+msgstr "Дата и время сайта"
+
+#: class-widget.php:1834
+msgid "Date format settings"
+msgstr "Настройки формата даты"
+
+#: class-widget.php:1781
+msgid "Select this template"
+msgstr "Выбрать этот шаблон"
+
+#: class-widget.php:1779
+msgid "All with icons"
+msgstr "Все с иконками"
+
+#: class-widget.php:1773
+msgid "Select premade Template"
+msgstr "Выбрать готовый шаблон"
+
+#: class-widget.php:1768
+msgid "Post categories"
+msgstr "Рубрики записи"
+
+#: class-widget.php:1764
+msgid "Post tags"
+msgstr "Метки"
+
+#: class-widget.php:1760
+msgid "The number of comments to the post"
+msgstr "Количество комментариев к записи"
+
+#: class-widget.php:1756
+msgid "Post author"
+msgstr "Автор записи"
+
+#: class-widget.php:1748
+msgid "Post excerpt"
+msgstr "Цитата из записи"
+
+#: class-widget.php:1799
+msgid "Excerpt settings"
+msgstr "Настройки Цитаты"
+
+#: class-widget.php:1744
+msgid "Post publish date"
+msgstr "Дата публикации записи"
+
+#: class-widget.php:1740
+msgid "Post thumbnail possibly wrapped by text"
+msgstr "Миниатюра записи возможно с огибающим текстом"
+
+#: class-widget.php:1736
+msgid "Post title"
+msgstr "Заголовок записи"
+
+#: class-widget.php:1732
+msgid "Next line is a paragraph"
+msgstr "Следующая строка - Абзац"
+
+#: class-widget.php:1700 class-widget.php:1731
+msgid "Empty line"
+msgstr "Пустая строка"
+
+#: class-widget.php:1728
+msgid "Space"
+msgstr "Пробел"
+
+#: class-widget.php:1699 class-widget.php:1727
+msgid "New line"
+msgstr "Новая линия"
+
+#: class-widget.php:1688
+msgid "Show template help"
+msgstr "Показать справку по шаблону"
+
+#: class-widget.php:1686
+msgid "Template"
+msgstr "Шаблон"
+
+#: class-widget.php:1683
+msgid "Displayed parts"
+msgstr "Отображаемые части"
+
+#: class-widget.php:1273
+msgid "Published, Private or Scheduled"
+msgstr "Опубликованный, Приватный или Запланированные"
+
+#: class-widget.php:1272
+msgid "Private or Scheduled"
+msgstr "Приватный или Запланированные"
+
+#: class-widget.php:1271
+msgid "Published or Private"
+msgstr "Опубликованный или Запланированные"
+
+#: class-widget.php:1269
+msgid "Private"
+msgstr "Приватные"
+
+#: class-widget.php:1218
+msgid "Title link URL"
+msgstr "URL ссылки заголовка"
+
+#: class-widget.php:713
+msgid "(%d) comments to this post"
+msgstr "(%d)  добавить комментарий к этой записи"
+
+#: class-widget.php:1928
+msgid "Icon"
+msgstr "Значок"
+
+#: class-widget.php:1266
+msgid "WordPress Default"
+msgstr "WordPress по умолчанию"
+
+#: class-widget.php:1270
+msgid "Published or Scheduled"
+msgstr "Опубликовано или Запланировано"
+
+#: class-widget.php:1268
+msgid "Scheduled"
+msgstr "Запланировано"
+
+#: class-widget.php:1267
+msgid "Published"
+msgstr "Опубликовано"
+
+#: class-widget.php:1265
+msgid "Status"
+msgstr "Состояние"
+
+#: class-widget.php:2035
+msgid "Footer link URL"
+msgstr "URL ссылки нижнего колонтитула"
+
+#: class-widget.php:1279
+msgid "Start with post"
+msgstr "Начать с записи"
+
+#. Plugin URI of the plugin
+#: cat-posts.php
+msgid "https://wordpress.org/plugins/category-posts/"
+msgstr "https://ru.wordpress.org/plugins/category-posts/"
+
+#. Author of the plugin
+#: cat-posts.php
+msgid "TipTopPress"
+msgstr "Нажмите вверху для подсказки"
+
+#: tinymce-translations.php:30
+msgid "Hide the button"
+msgstr "Скрыть кнопку"
+
+#: tinymce-translations.php:29
+msgid "Category Posts Insert Shortcode"
+msgstr "Вставить шорткод категории записей"
+
+#: tinymce-translations.php:28
+msgid "Insert Category Posts shortcode"
+msgstr "Вставить категории записей в шорткод"
+
+#: tinymce-translations.php:27
+msgid "Name"
+msgstr "Название"
+
+#: cat-posts.php:1141
+msgid "Hide the \"insert shortcode\" button from the editor"
+msgstr "Скрыть кнопку «вставить шорткод» из редактора"
+
+#: cat-posts.php:1138
+msgid "Visual editor button"
+msgstr "Кнопка визуального редактора"
+
+#: cat-posts.php:1134
+msgid "Close the currently open panel when opening a new one"
+msgstr "Закрыть открытую в данный момент панель при открытии новой"
+
+#: cat-posts.php:1131
+msgid "Open panels behavior"
+msgstr "Поведение открытых панелей"
+
+#: cat-posts.php:1127
+msgid "Category Posts Widget behaviour settings"
+msgstr "Категория записи - Настройки поведения виджета"
+
+#: cat-posts.php:864
+msgid "[shortcode]"
+msgstr "[shortcode]"
+
+#: class-widget.php:2040
+msgid "We are on <a href=\"%1$s\">Facebook</a> and <a href=\"%2$s\">Twitter</a>."
+msgstr "Мы в <a href=\"%1$s\">Facebook</a> и <a href=\"%2$s\">Twitter</a>."
+
+#: class-widget.php:2038
+msgid "Documentation"
+msgstr "Документация"
+
+#: class-widget.php:2037
+msgid "Widget admin behaviour settings"
+msgstr "Настройки поведения администратора виджета"
+
+#: class-widget.php:1783
+msgid "Everything is a link"
+msgstr "Все ссылки"
+
+#: class-widget.php:1968
+msgid "No default"
+msgstr "Не по умолчанию"
+
+#: class-widget.php:1965
+msgid "Select image"
+msgstr "Выбрать изображение"
+
+#: class-widget.php:1949
+msgid "Default thumbnail: "
+msgstr "Миниатюра по умолчанию:"
+
+#: class-widget.php:1250
+msgid "All categories"
+msgstr "Все рубрики"
+
+#: class-widget.php:1261
+msgid "Exclude child categories"
+msgstr "Исключить дочерние рубрики"
+
+#: class-widget.php:777
+msgid "Continue reading %s"
+msgstr "Читать далее %s"
+
+#: cat-posts.php:238
+msgid "Select"
+msgstr "Выбрать"
+
+#: cat-posts.php:237
+msgid "Select a default thumbnail"
+msgstr "Выбрать миниатюру по умолчанию"
+
+#. Author URI of the plugin
+#: cat-posts.php
+msgid "https://tiptoppress.com"
+msgstr "https://tiptoppress.com"
+
+#: class-widget.php:2032
+msgid "Footer"
+msgstr "Подвал"
+
+#. Description of the plugin
+#: cat-posts.php
+msgid "Adds a widget that shows the most recent posts from a single category."
+msgstr "Добавить виджет, который показывает самые последние записи из одной рубрики."
+
+#. Plugin Name of the plugin
+#: cat-posts.php
+msgid "Category Posts Widget"
+msgstr "Виджет Category Posts"
+
+#: cat-posts.php:909
+msgid "Layout"
+msgstr "Разметка"
+
+#: cat-posts.php:827
+msgid "Category Posts Shortcode"
+msgstr "Шорткод Category Posts"
+
+#: cat-posts.php:424 class-widget.php:1667
+msgid "Get the Pro version"
+msgstr "Получить версию Про"
+
+#: class-widget.php:2034
+msgid "Footer link text"
+msgstr "Текст ссылки нижнего колонтитула"
+
+#: class-widget.php:1974
+msgid "General"
+msgstr "Основное"
+
+#: class-widget.php:1840
+msgid "Date format"
+msgstr "Формат даты"
+
+#: class-widget.php:1673
+msgid "Post details"
+msgstr "Параметры записи"
+
+#: class-widget.php:1927
+msgid "Blur"
+msgstr "Затемнить"
+
+#: class-widget.php:1926
+msgid "Zoom in"
+msgstr "Приблизить"
+
+#: class-widget.php:1925
+msgid "Brighter"
+msgstr "Ярче"
+
+#: class-widget.php:1924
+msgid "Darker"
+msgstr "Темнее"
+
+#: cat-posts.php:239 class-widget.php:1923 class-widget.php:1935
+#: class-widget.php:1955
+msgid "None"
+msgstr "Нет"
+
+#: class-widget.php:1868
+msgid "Height:"
+msgstr "Высота:"
+
+#: class-widget.php:1866
+msgid "Width:"
+msgstr "Ширина:"
+
+#: class-widget.php:1316
+msgid "Exclude posts which have no thumbnail"
+msgstr "Исключить записи без миниатюр"
+
+#: class-widget.php:1315
+msgid "Exclude current post"
+msgstr "Исключить текущий записи"
+
+#: class-widget.php:1314
+msgid "Reverse sort order (ascending)"
+msgstr "Обратный порядок сортировки (по возрастанию)"
+
+#: class-widget.php:1309
+msgid "Random"
+msgstr "Случайный"
+
+#: class-widget.php:1308
+msgid "Number of comments"
+msgstr "Количество комментариев"
+
+#: class-widget.php:1306
+msgid "Date"
+msgstr "Дата"
+
+#: class-widget.php:1304
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: class-widget.php:1278
+msgid "Number of posts to show"
+msgstr "Число отображаемых записей"
+
+#: class-widget.php:1246
+msgid "Category"
+msgstr "Рубрика"
+
+#: class-widget.php:1242
+msgid "Filter"
+msgstr "Фильтр"
+
+#: class-widget.php:1214
+msgid "Hide title"
+msgstr "Скрыть заголовок"
+
+#: class-widget.php:1217
+msgid "Make widget title link"
+msgstr "Сделать ссылку на заголовок виджета"
+
+#: class-widget.php:1212 class-widget.php:1216 class-widget.php:1307
+#: class-widget.php:1775
+msgid "Title"
+msgstr "Заголовок"
+
+#: cat-posts.php:694 class-widget.php:33 class-widget.php:342
+#: class-widget.php:345
+msgid "Category Posts"
+msgstr "Рубрика записей"
+
+#: class-widget.php:31
+msgid "List single category posts"
+msgstr "Список отдельных Рубрик записей"
+
+#: cat-posts.php:73
+msgid "Customize"
+msgstr "Настроить"
+
+#: class-widget.php:1922
+msgid "Animation on mouse hover"
+msgstr "Анимация при наведении мыши"
