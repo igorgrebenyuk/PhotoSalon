@@ -1,0 +1,24 @@
+2026-03-13T06:01:54+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-03-13T06:01:54+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-03-13T06:01:54+00:00 ERROR Error persisting error logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:07:23+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:13:38+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:17:11+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:22:10+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:28:37+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:33:10+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:39:35+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:43:53+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:49:05+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:53:07+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T06:58:15+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T07:02:23+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T07:08:20+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T07:14:23+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-03-13T07:14:23+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-03-13T07:14:23+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T07:18:25+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T07:24:28+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T07:28:30+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T08:01:43+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
+2026-03-13T08:02:58+00:00 ERROR Error persisting Meta logs: Невозможно создать экземпляр API, так как отсутствует токен доступа. : []
